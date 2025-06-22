@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aniket Sandye
+# 👋 Hi, I'm Aniket 
 
 Welcome to my GitHub profile!  
 I'm an undergraduate tech enthusiast passionate about creating solutions that bridge the gap between code and real-world impact.
