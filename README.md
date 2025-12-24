@@ -40,9 +40,14 @@ I am a student with a deep passion for building scalable, AI-driven solutions. M
   <a href="https://leetcode.com/u/Aniket-16-S/">
     <img src="https://img.shields.io/badge/LeetCode-190%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a> &nbsp;
+  <br>
   <a href="https://www.linkedin.com/in/aniket-sandye/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a> &nbsp; 
+<br>
+  <a href="https://www.credly.com/users/aniket-sandye" >
+<img src="https://img.shields.io/badge/Credly-Profile-blue?logo=credly&logoColor=white" alt="Credly Profile"/>
+</a>
 </p>
 
 * **Certifications:** Google (Data Analytics, IT Automation), IBM (ML & AI Internships), Edunet Foundation.
