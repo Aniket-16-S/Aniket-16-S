@@ -22,8 +22,8 @@ I am a student with a deep passion for building scalable, AI-driven solutions. M
 ---
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python 5/5 , C 4/5 , SQL 3/5 , Dart 2/5 , Java 2/5 .
-* **AI & ML:** TensorFlow, Scikit-Learn, CNNs, Computer Vision, NLP.
+* **Languages:** Python, C, SQL, Dart, Java.
+* **AI & ML:** TensorFlow, SigLIP, FAISS, Scikit-Learn, CNNs, Computer Vision, NLP.
 * **Development:** FastAPI, Git, CI/CD, Agile/Waterfall, Flutter, Docker, Linux.
 
 ---
@@ -38,15 +38,15 @@ I am a student with a deep passion for building scalable, AI-driven solutions. M
 ### 📈 Stats & Credentials
 <p align="left">
   <a href="https://leetcode.com/u/Aniket-16-S/">
-    <img src="https://img.shields.io/badge/LeetCode-190%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-199%2B%20Solved-blue?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a> &nbsp;
-  <br>
+  
   <a href="https://www.linkedin.com/in/aniket-sandye/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
   </a> &nbsp; 
-<br>
+
   <a href="https://www.credly.com/users/aniket-sandye" >
-<img src="https://img.shields.io/badge/Credly-Profile-blue?logo=credly&logoColor=white" alt="Credly Profile"/>
+<img src="https://img.shields.io/badge/Credly-Profile-blue?logo=credly&logoColor=black" alt="Credly Profile"/>
 </a>
 </p>
 
