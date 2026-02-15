@@ -1,56 +1,54 @@
-# Hi, I'm Aniket Sandye 👋
-### AI Engineer & Software Developer | Specialized in Computer Vision & Automation
+# Hi, I'm Aniket  👋
+**AI & Software Engineer | Specializing in Computer Vision & Scalable Automation**
+*B.E. Computer Engineering (AI/ML) + Honors in Data Science*
 
-B.E. Computer Engineering (AI/ML) with Honors in Data Science.
-
-I am a student with a deep passion for building scalable, AI-driven solutions. My expertise lies in bridging the gap between machine learning research and production-ready applications.
+I bridge the gap between Machine Learning research and production-grade software. I focus on building high-throughput pipelines, automating complex workflows, and ensuring system observability.
 
 ---
 
-### 🏆 Featured Projects :
-#### 🔍 [Local Semantic Video Search Engine](https://github.com/Aniket-16-S/Semantic_Video_Search)
-* **The Problem:** Traditional video search relies on filenames/tags. This engine searches *content* using Natural Language.
-* **The Tech:** $SigLIP$ (Vision-Language Model), $FAISS$ Vector DB, Python, SQL.
-* **Performance Metric:** Optimized for speed—processed **25 minutes of video in just 21 seconds** on a T4 GPU (Google Colab). 
-* **Engineering Highlight:** Built a cross-modal retrieval pipeline that maps text queries to video frame embeddings with high semantic accuracy.
+### 🛠️ Tech Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **DevOps** | Docker, Jenkins, CI/CD, Agile methods, Linux, Git |
+| **Core Engineering** | System Design, SDLC, Data Structures & Algorithms |
+|**Cloud Computing**| AWS (EC2, S3, EB), IBM Cloud |
+| **AI & Machine Learning** | TensorFlow, Scikit-Learn, CNNs, RNNs, Computer Vision, NLP, SigLIP, FAISS |
+|**Data Analytics**| Matplotlib, Seaborn, Pandas, Numpy |
+| **Languages** | Python (Advanced), C, SQL, Dart, Java |
+| **Mobile & Frontend** | Flutter , Html, Css |
+
+
+
+---
+
+### 🏆 High-Impact Projects
+
+#### 🥗 [HealthyBitesAI – Label Padhega India](https://github.com/Aniket-16-S/HealthyBitesAI)
+* **Challenge :** Tackling misleading "healthy" marketing claims and decoding complex ingredient lists filled with hidden sugars, harmful additives (E-numbers), and refined flours / oils traps.
+* **Solution :** Engineered Food Transparency system using **FastAPI** and **IBM Watsonx.ai**, and implemented LLM-based semantic ingredient analysis.
+* **Engineering Milestone :** Designed a modular Service-Oriented Architecture integrating WatsonX AI and Open Food Facts API, enabling real-time product audits with AI-driven consumer protection guardrails.
+
+#### 🔍 [Semantic Video Search Engine](https://github.com/Aniket-16-S/Semantic_Video_Search)
+* **Challenge :** Eliminating dependence on cloud-based platforms like Google Photos for semantic video search, where accuracy might be limited and user data is externalized.
+* **Solution :** Engineered a cross-modal retrieval pipeline using **SigLIP** and **FAISS** to map natural language queries to high-dimensional frame embeddings. 
+* **Engineering Milestone :** Optimized inference to process **100 minutes of video in 21 seconds** on standard T4 cloud GPU. Without GPU, on regular phone CPUs it takes around 1-2 minutes for 5 minutes of video file.
 
 #### 🚀 [Commercial Workflow Automation Suite](https://github.com/Aniket-16-S/Commercial_Workflow_Automation_Suite)
-* **Impact:** Fully operational in **2 retail outlets** ("Cake of the Day").
-* **Value:** Automated customer notifications and order management via WhatsApp API, significantly reducing manual coordination errors.
-* **Tech:** Python, Automation Logic, API Integration.
+* **The Challenge:** The marketing team manually sent promotional messages on WhatsApp. They wanted automation without purchasing expensive Business APIs or relying on third-party services. Also, they needed customer database management application.
+* **Impact:** Designed and Deployed Automation and database management app. It is operational 2 retail outlets ("Cake of the Day, Ratnagiri").
+* **Value:** Transformed a manual process into a streamlined, automated system, cutting operational overhead and establishing a sustainable, self-managed marketing infrastructure.
 
 ---
 
-### 🛠️ Technical Toolkit
-* **Languages:** Python, C, SQL, Dart, Java.
-* **AI & ML:** TensorFlow, SigLIP, FAISS, Scikit-Learn, CNNs, Computer Vision, NLP.
-* **Development:** FastAPI, Git, CI/CD, Agile/Waterfall, Flutter, Docker, Linux.
+
+### 📈 Stats & Performance
+* **Problem Solving:** 200+ LeetCode problems solved (my favorites: Heap, Graph Trversals).
+* **Certifications:** Google IT Automation & Data Analytics. + more than 40 other certeficates. (Too long list to mention here.)
 
 ---
 
-### 🔭 What I’m Building Now
-* **Audio Genre Classification:** Developing a **CNN-based architecture** to classify music genres by processing audio files as Mel-spectrogram images.
----
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/aniket-sandye/) | [LeetCode](https://leetcode.com/u/Aniket-16-S/) | [Email](mailto:r230302@famt.ac.in)
 
-* **Technical Writing:** Sharing my journey on [Ready Tensor](https://app.readytensor.ai/publications/lightweight-intent-based-chatbot-for-faqs-using-tensorflow-fastapi-09EijieueTxk) to help others build efficient AI agents.
-
-
-### 📈 Stats & Credentials
-<p align="left">
-  <a href="https://leetcode.com/u/Aniket-16-S/">
-    <img src="https://img.shields.io/badge/LeetCode-199%2B%20Solved-blue?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a> &nbsp;
-  
-  <a href="https://www.linkedin.com/in/aniket-sandye/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
-  </a> &nbsp; 
-
-  <a href="https://www.credly.com/users/aniket-sandye" >
-<img src="https://img.shields.io/badge/Credly-Profile-blue?logo=credly&logoColor=black" alt="Credly Profile"/>
-</a>
-</p>
-
-* **Certifications:** Google (Data Analytics, IT Automation), IBM (ML & AI Internships), Edunet Foundation.
-* **Industry Prep:** Completed job simulations for **Electronic Arts (EA)** and **Accenture** via Forage.
-
----
+*"Turning code into real-world impact, one commit at a time."*
